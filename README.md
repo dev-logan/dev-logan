@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://fancyer-dev.tistory.com/
+
+https://velog.io/@fancyer
+
 <!--
 **fancyers/fancyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
