@@ -4,6 +4,9 @@ https://fancyer-dev.tistory.com/
 
 https://velog.io/@fancyer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fancyers&layout=compact&hide=Jupyter%20Notebook)](https://github.com/fancyers/github-readme-stats)
+
+
 <!--
 **fancyers/fancyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
