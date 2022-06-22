@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Blogs: https://fancyer-dev.tistory.com/
-
+Blogs:
+https://fancyer-dev.tistory.com/
 https://velog.io/@fancyer
 
 Email: kjng5901@gmail.com
